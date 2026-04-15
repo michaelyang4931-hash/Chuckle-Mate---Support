@@ -16,4 +16,5 @@ Feedback & Bug Reports
 Found a bug or have a suggestion for a new challenge? We’d love to hear from you!
 
 Email: [michael.yang.4931@gmail.com]
+
 GitHub Issues: [https://github.com/michaelyang4931-hash/Chuckle-Mate---Support/issues]
